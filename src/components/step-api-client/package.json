@@ -1,0 +1,45 @@
+{
+  "_args": [
+    [
+      "step-api-client@0.1.3",
+      "/Volumes/DataDrive/Project/2020/8.11_zhang/github/home-job-mobile"
+    ]
+  ],
+  "_from": "step-api-client@0.1.3",
+  "_id": "step-api-client@0.1.3",
+  "_inBundle": false,
+  "_integrity": "sha512-9B4n/tWTyVAJLKPBss4uT0evSRRny3S/ZEkwEyNKHiOhKBmwqT2imoPkW8AdK0FL2ka26bEcW588yOkBNlz2tQ==",
+  "_location": "/step-api-client",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "step-api-client@0.1.3",
+    "name": "step-api-client",
+    "escapedName": "step-api-client",
+    "rawSpec": "0.1.3",
+    "saveSpec": null,
+    "fetchSpec": "0.1.3"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/step-api-client/-/step-api-client-0.1.3.tgz",
+  "_spec": "0.1.3",
+  "_where": "/Volumes/DataDrive/Project/2020/8.11_zhang/github/home-job-mobile",
+  "author": {
+    "name": "Yasser-G",
+    "email": "Yas@KeeMail.Me"
+  },
+  "description": "Step API Client",
+  "keywords": [
+    "Khtwah",
+    "Step",
+    "react",
+    "react-native"
+  ],
+  "license": "Private",
+  "main": "index.tsx",
+  "name": "step-api-client",
+  "version": "0.1.3"
+}

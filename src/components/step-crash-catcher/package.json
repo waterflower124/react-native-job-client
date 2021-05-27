@@ -1,0 +1,44 @@
+{
+  "_args": [
+    [
+      "step-crash-catcher@0.0.3",
+      "/Volumes/DataDrive/Project/2020/8.11_zhang/github/home-job-mobile"
+    ]
+  ],
+  "_from": "step-crash-catcher@0.0.3",
+  "_id": "step-crash-catcher@0.0.3",
+  "_inBundle": false,
+  "_integrity": "sha512-HsiGpzvf511BZGU2TvRkowSOEkQ8bpsGnw3Hm6RgG7xfepMSI9+jZnxfEJGNvEhypgmoHY+cDd5bQNXNaWN1Gw==",
+  "_location": "/step-crash-catcher",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "step-crash-catcher@0.0.3",
+    "name": "step-crash-catcher",
+    "escapedName": "step-crash-catcher",
+    "rawSpec": "0.0.3",
+    "saveSpec": null,
+    "fetchSpec": "0.0.3"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/step-crash-catcher/-/step-crash-catcher-0.0.3.tgz",
+  "_spec": "0.0.3",
+  "_where": "/Volumes/DataDrive/Project/2020/8.11_zhang/github/home-job-mobile",
+  "author": {
+    "name": "Yasser-G",
+    "email": "Yas@Keemail.me"
+  },
+  "description": "React-Native Crash Catcher",
+  "keywords": [
+    "khtwah",
+    "step",
+    "Crash Catcher"
+  ],
+  "license": "Private",
+  "main": "index.tsx",
+  "name": "step-crash-catcher",
+  "version": "0.0.3"
+}

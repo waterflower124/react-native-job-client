@@ -1,0 +1,75 @@
+import { I18nManager, Platform } from "react-native";
+const { isRTL } = I18nManager;
+const isAndroid = Platform.OS == "android";
+
+export const icons = {
+  xClose: require("./icons/close.png"),
+  miniArrow: require("./icons/miniArrow.png"),
+  fixIcon: require("./icons/fixIcon.png"),
+  calendar: require("./icons/calendarIcon.png"),
+  glass: require("./icons/glassIcon.png"),
+  flag: require("./icons/flagIcon.png"),
+  miniLogo: require("./icons/miniLogo.png"),
+  chatImage: require("./icons/chatImage.png"),
+  inActiveStar: require("./icons/inActiveStar.png"),
+  activeStar: require("./icons/activeStar.png"),
+  halfStar: require("./icons/halfStar.png"),
+  microphone: require("./icons/microphone.png"),
+  play: require("./icons/play.png"),
+  smartphone: require("./icons/smartphone.png"),
+  password: require("./icons/password.png"),
+  userIcon: require("./icons/userIcon.png"),
+  accountInfo: require("./icons/accountInfoIcon.png"),
+  historyInfo: require("./icons/historyInfoIcon.png"),
+  placeholderImage: require("./icons/placeholderImage.png"),
+  upload: require("./icons/uploadIcon.png"),
+  downArrow: require("./icons/downArrow.png"),
+  date: require("./icons/dateIcon.png"),
+  time: require("./icons/timeIcon.png"),
+  notification: require("./icons/notificationIcon.png"),
+  msgNotification: require("./icons/msgNotificationIcon.png"),
+  clientdrawer: require("./icons/clientdrawerIcon.png"),
+  service: require("./icons/serviceicon.png"),
+  chat: require("./icons/chaticonD.png"),
+  notify: require("./icons/notifyicon.png"),
+  myprofile: require("./icons/myprofileicon.png"),
+  homelogo: require("./icons/homelogo.png"),
+  drawer: require("./icons/drawerIcon.png"),
+  transaction: require("./icons/transactionIcon.png"),
+  location: require("./icons/locationIcon.png"),
+  chatTabIcon: require("./icons/chatTabIcons.png"),
+  sortDown: require("./icons/sortDownIcon.png"),
+  chatHead: require("./icons/chatHeadIcon.png"),
+  backButton: require("./icons/backButton.png"),
+  bigActiveStar: require("./icons/bigActiveStar.png"),
+  bigInActiveStar: require("./icons/bigInActiveStar.png"),
+  loc: require("./icons/locIcon.png"),
+  emptyNoCat: require("./icons/emptyNoCat.png"),
+  emptyNoMsg: require("./icons/emptyNoMsg.png"),
+  emptyNoRequests: require("./icons/emptyNoRequests.png"),
+  emptyNoNotifications: require("./icons/emptyNoNotifications.png"),
+  emptyNoRequestsHistory: require("./icons/emptyNoRequestsHistory.png"),
+  emptyNoOffers: require("./icons/emptyNoOffers.png"),
+  emptyNoChat: require("./icons/emptyNoChat.png"),
+  rateArrows: require("./icons/rateArrows.png"),
+  emptyNoTasks: require("./icons/emptyNoTasks.png"),
+  world: require("./icons/world.png"),
+  true: require("./icons/rightSign.png"),
+  twitter: require("./icons/twitter.png"),
+  whatsapp: require("./icons/whatsapp.png"),
+  userPlaceholder: require("./icons/userPlaceholder.png")
+};
+export const images = {
+  mainImage: require("./images/mainImage.png"),
+  gradientImage: require("./images/gradientImage.png"),
+  roundedImage: require("./images/lightImage.png"),
+  backImage: require("./images/backImage.png"),
+  chatPhoto_1: require("./images/chatPhoto_1.png"),
+  user_1: require("./images/user_1.png"),
+  user_2: require("./images/user_2.png"),
+  loginImage: require("./images/loginImage.png")
+};
+
+export const fonts = {
+  arial: !isRTL ? "arial" : isAndroid ? "JF-Flat-Regular" : "JF Flat"
+};

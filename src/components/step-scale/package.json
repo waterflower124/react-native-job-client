@@ -1,0 +1,38 @@
+{
+  "_args": [
+    [
+      "step-scale@0.1.8",
+      "/Volumes/DataDrive/Project/2020/8.11_zhang/github/home-job-mobile"
+    ]
+  ],
+  "_from": "step-scale@0.1.8",
+  "_id": "step-scale@0.1.8",
+  "_inBundle": false,
+  "_integrity": "sha512-vpEAfwpcidK8FWL/GFk3if/O294W234WovFeCm2BCuJTr0dh9OPdd49e00QPGdMN4wr9MmxegFNbi0MPLWf5Rw==",
+  "_location": "/step-scale",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "step-scale@0.1.8",
+    "name": "step-scale",
+    "escapedName": "step-scale",
+    "rawSpec": "0.1.8",
+    "saveSpec": null,
+    "fetchSpec": "0.1.8"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/step-scale/-/step-scale-0.1.8.tgz",
+  "_spec": "0.1.8",
+  "_where": "/Volumes/DataDrive/Project/2020/8.11_zhang/github/home-job-mobile",
+  "author": {
+    "name": "Yasser-G",
+    "email": "Yas@KeeMail.Me"
+  },
+  "description": "ReactNative Scale Converters",
+  "main": "index.ts",
+  "name": "step-scale",
+  "version": "0.1.8"
+}
